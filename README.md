@@ -4,6 +4,8 @@ An unofficial Windows desktop launcher UI for Minecraft: Java Edition, built
 with Electron. It loads stable version names from Mojang's public version
 manifest.
 
+(FOR DEVELOPER)
+
 ## Run on Windows
 
 - Install a current Node.js LTS release.
